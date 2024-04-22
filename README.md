@@ -24,7 +24,7 @@ Detailing the different features available on Netflix, such as various playback 
 
 Page 3 (FAQ)
 A list of frequently asked questions to help users understand more about Netflix services.
-![netf![netflix3](https://github.com/ajojose803/Netflix/assets/151668867/93901c0d-4295-4db2-8d65-a62220a5e35d)
+![netflix3](https://github.com/ajojose803/Netflix/assets/151668867/93901c0d-4295-4db2-8d65-a62220a5e35d)
 
 Page 4 (Footer)
 The footer contains navigation links, contact information, and additional resources.
